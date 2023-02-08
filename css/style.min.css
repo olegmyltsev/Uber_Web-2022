@@ -552,7 +552,7 @@ nav {
 
 .require__content::before {
     content: "";
-    background: url(../icons/footer/instagram.svg) center center/cover no-repeat;
+    background: url(../icons/require/require_icon.svg) center center/cover no-repeat;
     height: 20px;
     display: inline-block;
     width: 20px;
